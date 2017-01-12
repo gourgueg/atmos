@@ -1,2 +1,2 @@
 # atmos
-short school project 
+This is a short school project 
